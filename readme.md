@@ -22,5 +22,5 @@ Linux/macOS Terminal:
 export SHODAN_API_KEY=masukkan_api_key_anda
 
 ### 3. Run
-python main.py --target <ip target>
+python main.py --target < ip target >
 
